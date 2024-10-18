@@ -4,6 +4,7 @@
     |___ **CSCD210 <LabName>**
         ├── parksy<LabName>.zip
         ├── output.txt
+        ├── Program Specification.pdf
         ├── **src**
         │   ├── Program file.java
         │   └── Program Tester.java
