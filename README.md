@@ -2,7 +2,7 @@
 
 # Lab (number goes here)
     |___ **CSCD210 <LabName>**
-        ├── parksy<LabName>.zip
+        ├── **parksy<LabName>.zip**
         ├── output.txt
         ├── Program Specification.pdf
         ├── **src**
