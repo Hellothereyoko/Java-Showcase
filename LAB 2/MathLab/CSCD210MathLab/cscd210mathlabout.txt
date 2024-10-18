@@ -1,0 +1,60 @@
+
+Program:  What's the champion's name?:
+User: Riley
+Program: What's the win time in seconds?:
+User: 88.99
+
+Riley's rate of travel was:
+
+28.09 m/s
+92.17 ft/s
+101.13 km/h
+62.84 mi/h
+
+It would take 0 minutes and 57.29 seconds for Riley to ski one mile.
+It would take 3.25 seconds for Riley to ski 100 yards.
+
+Program:  What's the champion's name?:
+User: john
+Program: What's the win time in seconds?:
+User: 120.0
+
+john's rate of travel was:
+
+20.83 m/s
+68.35 ft/s
+75.00 km/h
+46.60 mi/h
+
+It would take 1 minute and 17.25 seconds for john to ski one mile.
+It would take 4.39 seconds for john to ski 100 yards.
+
+Program:  What's the champion's name?:
+User: Darrick
+Program: What's the win time in seconds?:
+User: 189.2
+
+Darrick's rate of travel was:
+
+13.21 m/s
+43.35 ft/s
+47.57 km/h
+29.56 mi/h
+
+It would take 2 minutes and 1.79 second for Darrick to ski one mile.
+It would take 6.92 seconds for Darrick to ski 100 yards.
+
+Program:  What's the champion's name?:
+User: David
+Program: What's the win time in seconds?:
+User: 100.0
+
+David's rate of travel was:
+
+25.00 m/s
+82.02 ft/s
+90.00 km/h
+55.92 mi/h
+
+It would take 1 minute and 4.37 seconds for David to ski one mile.
+It would take 3.66 seconds for David to ski 100 yards.
