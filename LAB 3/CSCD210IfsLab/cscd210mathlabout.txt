@@ -1,0 +1,70 @@
+Program: What was your last meter reading?: 
+User: 444401350
+Program: What is your current meter reading?: 
+User: 444400003
+Program: What is your customer code?: 
+User: r
+
+Program Output: 
+Customer Code: r
+Last Meter Reading: 444400003
+Current Meter Reading: 444401350
+Usage: 134.7 gallons
+Amount Billed: $ 25.04
+
+Program: What was your last meter reading?: 
+User: 000000005
+Program: What is your current meter reading?: 
+User: 999999997
+Program: What is your customer code?: 
+User: r
+
+Program Output: 
+Customer Code: r
+Last Meter Reading: 999999997
+Current Meter Reading: 000000005
+Usage: 0.8 gallons
+Amount Billed: $ 25.00
+
+Program: What was your last meter reading?: 
+User: 444409003
+Program: What is your current meter reading?: 
+User: 444400003
+Program: What is your customer code?: 
+User: b
+
+Program Output: 
+Customer Code: b
+Last Meter Reading: 444400003
+Current Meter Reading: 444409003
+Usage: 900.0 gallons
+Amount Billed: $ 1500.02
+
+Program: What was your last meter reading?: 
+User: 000000005
+Program: What is your current meter reading?: 
+User: 999999997
+Program: What is your customer code?: 
+User: b
+
+Program Output: 
+Customer Code: b
+Last Meter Reading: 999999997
+Current Meter Reading: 000000005
+Usage: 0.8 gallons
+Amount Billed: $ 1500.00
+
+Program: What was your last meter reading?: 
+User: 444500000
+Program: What is your current meter reading?: 
+User: 444400000
+Program: What is your customer code?: 
+User: b
+
+Program Output: 
+Customer Code: b
+Last Meter Reading: 444400000
+Current Meter Reading: 444500000
+Usage: 10000.0 gallons
+Amount Billed: $ 1500.11
+
