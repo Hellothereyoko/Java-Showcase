@@ -1,6 +1,8 @@
-**This repository uses the following structure:**
+# This repository uses the following structure:
 
-# Lab (number goes here)
+
+
+    Lab (number)
     |___ **CSCD210 <LabName>**
         ├── **parksy<LabName>.zip**
         ├── output.txt
@@ -14,3 +16,11 @@
 
 **The tester programs are not written by me but by my professor and her TA.
 If I end up modifying the tester; I'll have it notated in the specific project.**
+
+
+# Laboratory Assignment Overview:
+
+- Lab 1: Basic Arithmetic Operations**
+- Lab 2: Application of Arithmetic Operations in a Basic Scenario**
+- Lab 3: Intermediate Appplication of Arithmetic Overflow**
+- Lab 4: Coming Soon!: Program Switches & Logic Trees**
