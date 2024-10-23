@@ -1,8 +1,6 @@
 **This repository uses the following structure:**
 
-
-
-#Lab (number goes here)
+# Lab (number goes here)
     |___ **CSCD210 <LabName>**
         ├── **parksy<LabName>.zip**
         ├── output.txt
@@ -13,7 +11,6 @@
         └── **out**
             └── Production
 
-
-
-**The tester programs are not written by me but by my professor and her TA.
+**
+The tester programs are not written by me but by my professor and her TA.
 If I end up modifying the tester; I'll have it notated in the specific project.**
