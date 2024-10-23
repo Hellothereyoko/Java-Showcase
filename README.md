@@ -1,6 +1,8 @@
-**This repository uses the following structure:**
+##This repository uses the following structure:
 
-# Lab (number goes here)
+
+
+Lab (number goes here)
     |___ **CSCD210 <LabName>**
         ├── **parksy<LabName>.zip**
         ├── output.txt
