@@ -20,7 +20,8 @@ If I end up modifying the tester; I'll have it notated in the specific project.*
 
 # Laboratory Assignment Overview:
 
-- Lab 1: Basic Arithmetic Operations**
-- Lab 2: Application of Arithmetic Operations in a Basic Scenario**
-- Lab 3: Intermediate Appplication of Arithmetic Overflow**
-- Lab 4: Coming Soon!: Program Switches & Logic Trees**
+- Lab 1: Basic Arithmetic Operations
+- Lab 2: Application of Arithmetic Operations in a Basic Scenario
+- Lab 3: Intermediate Appplication of Arithmetic Overflow
+- Lab 4: Program Switches & Logic Trees
+- Lab 5: *Coming Soon:* API & Basic Hash Generation
