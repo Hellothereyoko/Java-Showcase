@@ -1,0 +1,171 @@
+/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62528:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/yoko/Documents/CSCD 210/Projects/LAB 4/CSCD210LoopsLab/out/production/CSCD210LoopsLab CSCD210LoopsLabTester
+
+
+
+Test Case 1:
+
+Expected Output:
+For int == 1020304, choice == 2: 
+The number of even digits is: 2
+The number of odd digits is: 2
+The number of zeros is: 3
+
+
+Actual Output:
+Please pick a non-negative integer: 
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+The number of even digits is: 2
+The number of odd digits is: 2
+The number of zeros is: 3
+
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Bye-Bye!
+-----------------------------------
+
+Test Case 2:
+
+Expected Output:
+For int == -1, then int == 0, then int == 10 choice ==3: 
+Should reprompt twice for a new number then: 
+Prime numbers between 2 and 10 are: [2, 3, 5, 7] 
+
+
+Actual Output:
+Please pick a non-negative integer: 
+
+Input must be greater than 0.
+
+
+Please pick a non-negative integer: 
+
+Input must be greater than 0.
+
+
+Please pick a non-negative integer: 
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Prime numbers between 2 and 10 are: [2, 3, 5, 7]
+
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Bye-Bye!
+-----------------------------------
+
+Test Case 3:
+
+Expected Output:
+For int == 15, and choice == 0, then choice == 5 then choice == 4:  
+Invalid choice message and reprompt twice, then: 
+Good Bye
+
+
+Actual Output:
+Please pick a non-negative integer: 
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Invalid menu input. Try again:
+
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Invalid menu input. Try again:
+
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Bye-Bye!
+-----------------------------------
+
+Test Case 4:
+
+Expected Output:
+For int == 1, and choice == 3 
+Primer numbers between 2 and 0 are: 
+
+
+Actual Output:
+Please pick a non-negative integer: 
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens,and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Prime numbers between 2 and 0 are: 
+
+
+
+Please select a menu option: 
+
+
+1) Pick a new Integer
+2) Print number of odds,evens, and zeros in Integer
+3) Print prime numbers 2-Integer
+4) Quit Program
+
+
+Bye-Bye!
+-----------------------------------
+
+
+Process finished with exit code 0
