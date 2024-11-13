@@ -25,3 +25,5 @@ If I end up modifying the tester; I'll have it notated in the specific project.*
 - Lab 3: Intermediate Appplication of Arithmetic Overflow
 - Lab 4: Program Switches & Logic Trees
 - Lab 5: Java API & Basic Hash Generation
+- *Coming Soon:* Custom Program Creation & Debugging Exercise
+- *Coming Soon:* Lab 6 Methods Lab
