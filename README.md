@@ -16,7 +16,7 @@
 **The "asterisk asterisk" symbols show a sub-directory**
 
 **The tester programs are not written by me but by my professor and her TA.
-If I end up modifying the tester; I'll have it notated in the specific project.**
+If I end up modifying the tester; I'll have it notated in the specific project files.**
 
 
 # Laboratory Assignment Overview:
