@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cscd210utils","l":"ArrayUtils"},{"p":"cscd210lab7","l":"CSCD210Lab7"},{"p":"cscd210methods","l":"CSCD210Lab7Methods"},{"p":"cscd210utils","l":"IntStatisticsUtils"},{"p":"cscd210sort","l":"SortUtils"}];updateSearchResults();
