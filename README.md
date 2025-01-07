@@ -29,7 +29,7 @@
 <div>
     
 **The tester programs are not written by me but by my professor and her TA.
-If I end up modifying the tester; I'll have it notated in the specific project files. Labs 7 and on utilize JavaDoc style documentation as per my instructor. I'll do my 
+If I end up modifying the tester; I'll have it notated in the specific project files. Labs 6-8 utilize JavaDoc style documentation as per my instructor. I'll do my 
 best to add my interpretation of the specifications.**
 
 </div>
@@ -43,6 +43,8 @@ best to add my interpretation of the specifications.**
 </div>
 
 
+<div>
+    
 - Lab 1: Basic Arithmetic Operations
 - Lab 2: Application of Arithmetic Operations in a Basic Scenario
 - Lab 3: Intermediate Appplication of Arithmetic Overflow
@@ -50,17 +52,27 @@ best to add my interpretation of the specifications.**
 - Lab 5: Java API & Basic Hash Generation
 - Lab 6: Multiple Methods Lab
 - Lab 7: Arrays Lab Reverse Engineering Lab
-- *Coming Soon: Lab 8: Classes Lab (Clock Program)*
+- Lab 8: Classes Lab (Clock Program)
+
+</div>
 
 
+<div align="center">
+ 
+# $${\color{red}Custom} {} {\color{red}Program} {} {\color{red}Creation }$$
 
+</div>
 
-
-<div>
-<br>  
+<div align="center">
     
-### Custom Program Creation & Debugging Exercise: https://github.com/Hellothereyoko/Java-Time-Week-Planner
+**I made a java program to put all the teaching together and expand upon my knowledge. Check it out:** </div>
 
-</br>
+<div align="center">
+
+https://github.com/Hellothereyoko/Java-Time-Week-Planner
+
+</div>
+
+
 </div>
 
